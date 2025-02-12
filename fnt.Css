@@ -1,0 +1,23 @@
+h1 {
+    color: seagreen;
+    text-transform: uppercase;
+}
+.color1{
+    color: blue ;
+}
+
+.p1{
+    font-family: sans-serif;
+}
+.p2{
+    color: #7c0aa1;
+}
+.p3{
+    text-transform: capitalize;
+}
+.p4{
+    color: #15a5c8;
+}
+.p5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
